@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMAudio</string>
+    <string name="record_audio_mode_by_file">文件模式</string>
+    <string name="record_audio_mode_by_stream">字节流模式</string>
+    <string name="record_audio_speaking">请讲话...</string>
+    <string name="record_audio_press_to_say">按住说话</string>
+    <string name="record_audio_start">开始</string>
+    <string name="record_audio_stop">停止</string>
+    <string name="record_audio_playing">播放</string>
+    <string name="record_audio_stop_playing">停止播放</string>
+</resources>
